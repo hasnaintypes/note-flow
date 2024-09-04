@@ -146,10 +146,18 @@
       "automated": true,
       "week": 28,
       "dayOfYear": 194
+    },
+    {
+      "message": "docs: update installation guide",
+      "date": "2024-09-04T05:40:45+05:00",
+      "timestamp": "2025-07-03T05:40:45+05:00",
+      "automated": true,
+      "week": 36,
+      "dayOfYear": 248
     }
   ],
   "stats": {
-    "totalCommits": 18,
-    "lastCommit": "2025-07-03T05:40:44+05:00"
+    "totalCommits": 19,
+    "lastCommit": "2025-07-03T05:40:45+05:00"
   }
 }
